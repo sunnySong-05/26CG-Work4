@@ -1,0 +1,16 @@
+# Python 自动生成的缓存
+__pycache__/
+*.pyc
+
+# 编辑器配置文件 (如果是 PyCharm)
+.idea/
+
+# 编辑器配置文件 (如果是 VS Code)
+.vscode/
+
+# 运行生成的界面配置文件
+imgui.ini
+
+# 以后如果你创建了虚拟环境，记得加上这个
+venv/
+env/
